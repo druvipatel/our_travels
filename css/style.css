@@ -5,4 +5,11 @@
 
 body{
   background:#f8f9fa;
+  
+}
+
+.btn{
+  background: #f8f9fa;
+  border-color: #f8f9fa;
+  color: #7c7d7d;
 }
