@@ -19,13 +19,7 @@
   background-color: #25D366;
   border-color: #25D366;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
-=======
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
 .btn-twitter {
   background-color: #1DA1F2;
   border-color: #1DA1F2;
@@ -40,36 +34,18 @@
   background-color: #BD081C;
   border-color: #BD081C;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 .btn-secondary {
-=======
-.btn-secondary{
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
-=======
-.btn-secondary{
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
   background: #f8f9fa;
   border-color: #f8f9fa;
   color: #7c7d7d;
 }
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 a {
-=======
-a{
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
-=======
-a{
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
   text-decoration: none;
   color: white;
 }
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 .btn:hover {
   background: #848383;
   border-color: #000000;
@@ -85,9 +61,7 @@ label {
 body {
   background: #f8f9fa;
   background-color: #f8f9fa color: black;
-=======
-=======
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
+
 .btn:hover{
   background: #848383;
   border-color: #000000;
@@ -102,8 +76,5 @@ body{
   background:#f8f9fa;
   background-color:#f8f9fa
   color: black;
-<<<<<<< HEAD
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
-=======
->>>>>>> 0f55b65f4fab968794772b13b854e1015989e113
+
 }
