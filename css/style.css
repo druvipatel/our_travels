@@ -12,52 +12,6 @@ h1 {
   font-family: verdana;
 }
 
-/* body.fade-out { */
-
-/* opacity: 0; */
-
-/* transition: none; */
-
-/* } */
-
-/* body { */
-
-/* opacity: 1; */
-
-/* transition: 1s opacity; */
-
-/* } */
-
-/* #box { */
-
-/* font-family: 'Playfair Display'; */
-
-/* position: absolute; */
-
-/* top: 50%; */
-
-/* left: 50%; */
-
-/* transform: translateX(-50%) translateY(-50%); */
-
-/* } */
-
-/* #restOfPage{ */
-
-/* display: none; */
-
-/* } */
-
-/* } */
-
-/* #fade { */
-
-/* height:100vh; */
-
-/* background-color: black; */
-
-/* } */
-
 .btn {
   background: #f8f9fa;
   border-color: #f8f9fa;
