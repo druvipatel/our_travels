@@ -9,6 +9,10 @@ body{
 }
 
 
+h1{
+  font-family: verdana;
+}
+
 /* body.fade-out { */
     /* opacity: 0; */
     /* transition: none; */

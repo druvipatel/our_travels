@@ -1,12 +1,14 @@
 {
-  margin: 2px;
-  padding:2px;
+  margin: 0;
+  padding:0;
 }
 
 body{
   background:#f8f9fa;
   background-color:#f8f9fa;
 }
+
+.center{margin:0 auto; width:600px;}
 
 <style>
 img {
@@ -18,6 +20,7 @@ img {
 h1{
   font-family: verdana;
 }
+
 
 /* body.fade-out { */
     /* opacity: 0; */
